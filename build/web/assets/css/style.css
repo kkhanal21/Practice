@@ -1,0 +1,7 @@
+.complain-box{
+    height: 300px;
+    width: 400px;
+    padding: 5px;
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+}
